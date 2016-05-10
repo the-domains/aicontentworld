@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[aicontentworld]]></title>
         <description><![CDATA[aicontentworld]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/aicontentworld/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 May 2016 06:51:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 10 May 2016 07:06:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/aicontentworld/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to the world of AI Content.]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9a55ee6-e53a-4ce5-ad1b-3108acec68d9.jpg">]]></description>
-            <link>undefinedwelcome-to-the-world-of-ai-content/index.html</link>
+            <link>https://thegrid.ai/aicontentworld/welcome-to-the-world-of-ai-content/index.html</link>
             <guid isPermaLink="false">83e4094f-2e9b-4b6f-9a3e-346abd489d19</guid>
-            <pubDate>Tue, 10 May 2016 06:51:41 GMT</pubDate>
+            <pubDate>Tue, 10 May 2016 07:06:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
